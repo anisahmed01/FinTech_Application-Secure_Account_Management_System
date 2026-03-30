@@ -1,4 +1,4 @@
-# 🏦 Bank Account Management System (Python + Streamlit)
+# 🏦 FinTech Application: Secure Account Management System (Python + Streamlit)
 
 A simple banking system built with Python, Streamlit, and JSON-based storage.  
 It allows users to create accounts, deposit/withdraw money, update profile details, and delete accounts—all through a lightweight web UI.
